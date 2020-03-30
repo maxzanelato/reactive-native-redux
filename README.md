@@ -36,3 +36,8 @@ npm install
 ```
 expo start
 ```
+
+**2. From:**
+```
+https://github.com/jefelewis/redux-saga-demo
+```
